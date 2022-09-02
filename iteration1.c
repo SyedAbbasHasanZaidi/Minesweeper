@@ -1,5 +1,6 @@
 // Assignment 1 21T2 COMP1511: Minesweeper
 // minesweeper.c (re-written)
+//checking git branch and git push
 
 #include <stdio.h>
 #include <stdlib.h>
