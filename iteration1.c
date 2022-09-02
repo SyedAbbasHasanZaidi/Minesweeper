@@ -1,5 +1,7 @@
 // Assignment 1 21T2 COMP1511: Minesweeper
 // minesweeper.c (re-written)
+// still testing lol
+//now am testing pushing onto a branch 
 
 #include <stdio.h>
 #include <stdlib.h>
